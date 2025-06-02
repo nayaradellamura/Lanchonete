@@ -54,7 +54,8 @@ Funcionalidades principais:
 ### Passos
 
 1. Clone ou copie o projeto para a pasta do servidor local, por exemplo:  
-   `C:\wamp64\www\info-lanches` (WAMP) ou `/var/www/html/info-lanches` (Linux)  
+   `https://github.com/nayaradellamura/Lanchonete`  
+   `C:\wamp64\www\info-lanches` (WAMP)`
 
 2. Importe o banco de dados:  
    - Abra o phpMyAdmin 
